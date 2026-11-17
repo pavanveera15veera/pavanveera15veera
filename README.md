@@ -30,14 +30,14 @@ REST APIs for listings, applications and profiles over MongoDB. JWT auth with bc
 
 ### Stack
 
-**Languages** Python · JavaScript · SQL · Java · C++
-**Frontend** React · Mapbox GL JS · Streamlit
-**Backend** FastAPI · Flask · Node.js · Express · REST
-**Data** PostgreSQL · MongoDB · SQLite · pandas · PySpark
-**ML** scikit-learn · PyTorch · TensorFlow · SHAP · LIME
+- **Languages** — Python · JavaScript · SQL · Java · C++
+- **Frontend** — React · Mapbox GL JS · Streamlit
+- **Backend** — FastAPI · Flask · Node.js · Express · REST
+- **Data** — PostgreSQL · MongoDB · SQLite · pandas · PySpark
+- **ML** — scikit-learn · PyTorch · TensorFlow · SHAP · LIME
 
 ---
 
 ### Reach me
 
-[LinkedIn](https://linkedin.com/in/pavanveera15) · pavanveeramaniveera@gmail.com
+[LinkedIn](https://linkedin.com/in/pavanveera15) &nbsp;·&nbsp; pavanveeramaniveera@gmail.com &nbsp;·&nbsp; Brooklyn, NY
